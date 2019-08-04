@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cipher</string>
+    <string name="txtToCipher">Enter text to cipher</string>
+    <string name="cipher">Cipher</string>
+</resources>
